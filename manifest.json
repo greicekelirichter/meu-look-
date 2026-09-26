@@ -1,0 +1,9 @@
+{
+  "name":"Meu Look",
+  "short_name":"Meu Look",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#fbf6f4",
+  "theme_color":"#8e4660",
+  "icons":[]
+}
